@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371FDF46-62A1-40E6-B06E-ACBF90A00948}|MathLibrary.Tests\\MathLibrary.Tests.csproj|c:\\users\\james11\\documents\\fatorial\\mathlibrary\\mathlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371FDF46-62A1-40E6-B06E-ACBF90A00948}|MathLibrary.Tests\\MathLibrary.Tests.csproj|solutionrelative:mathlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A368F-9503-4716-9CAF-188D283FC521}|MathLibrary\\MathLibrary.csproj|c:\\users\\james11\\documents\\fatorial\\mathlibrary\\mathlibrary\\mathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A368F-9503-4716-9CAF-188D283FC521}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\mathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371FDF46-62A1-40E6-B06E-ACBF90A00948}|MathLibrary.Tests\\MathLibrary.Tests.csproj|c:\\users\\james11\\documents\\fatorial\\mathlibrary\\mathlibrary.tests\\mathlibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{371FDF46-62A1-40E6-B06E-ACBF90A00948}|MathLibrary.Tests\\MathLibrary.Tests.csproj|solutionrelative:mathlibrary.tests\\mathlibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A368F-9503-4716-9CAF-188D283FC521}|MathLibrary\\MathLibrary.csproj|c:\\users\\james11\\documents\\fatorial\\mathlibrary\\mathlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A368F-9503-4716-9CAF-188D283FC521}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A368F-9503-4716-9CAF-188D283FC521}|MathLibrary\\MathLibrary.csproj|c:\\users\\james11\\documents\\fatorial\\mathlibrary\\mathlibrary\\mathlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B7A368F-9503-4716-9CAF-188D283FC521}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\mathlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathLibrary.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "ToolTip": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "RelativeToolTip": "MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T22:37:14.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MathLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MathLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:35:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+              "RelativeDocumentMoniker": "MathLibrary\\MathLibrary.csproj",
+              "ToolTip": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+              "RelativeToolTip": "MathLibrary\\MathLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T22:31:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathUtils.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary\\MathUtils.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\MathUtils.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary\\MathUtils.cs",
+              "RelativeToolTip": "MathLibrary\\MathUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:19:59.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\fatorial\\MathLibrary\\MathLibrary\\Program.cs",
+              "RelativeToolTip": "MathLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:19:02.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
